@@ -1,6 +1,6 @@
 insert into tblfake_apps(id, name, category, downloads, price) values (3,"siliconphase","Productivity",17193,"0.0");
 insert into tblfake_apps(id, name, category, downloads, price) values (6,"Donzolab","Education",4259,"0.99");
-insert into tblfake_apps(id, name, category, downloads, price) values (10,"ittechi","Reference",3874,"0.0");
+insert into tblfake_apps(id, name, category, downloads, price) values (10,ittechi","Reference",3874,"0.0");
 insert into tblfake_apps(id, name, category, downloads, price) values (13,"Subdrill","Education",7132,"1.99");
 insert into tblfake_apps(id, name, category, downloads, price) values (14,"Anzoom","Health & Fitness",6941,"14.99");
 insert into tblfake_apps(id, name, category, downloads, price) values (21,"kanity","Health & Fitness",2299,"0.0");
@@ -59,7 +59,7 @@ insert into tblfake_apps(id, name, category, downloads, price) values (301,"Dalt
 insert into tblfake_apps(id, name, category, downloads, price) values (308,"Sanbam","Business",14554,"0.0");
 insert into tblfake_apps(id, name, category, downloads, price) values (314,"Voyaelectronics","News",27793,"0.99");
 insert into tblfake_apps(id, name, category, downloads, price) values (317,"Streethex","Lifestyle",17200,"1.99");
-insert into tblfake_apps(id, name, category, downloads, price) values (328,"indiace","Education",7678,"0.99");
+insert into tblfake_apps(id, name, category, downloads, price) values (328,indiace","Education",7678,"0.99");
 insert into tblfake_apps(id, name, category, downloads, price) values (332,"yearfix","Business",4587,"0.0");
 insert into tblfake_apps(id, name, category, downloads, price) values (411,"Cantechi","Entertainment",6465,"1.99");
 insert into tblfake_apps(id, name, category, downloads, price) values (412,"Ranplus","Weather",17358,"2.99");
@@ -140,7 +140,7 @@ insert into tblfake_apps(id, name, category, downloads, price) values (669,"Gree
 insert into tblfake_apps(id, name, category, downloads, price) values (674,"Funzap","Sports",20020,"0.0");
 insert into tblfake_apps(id, name, category, downloads, price) values (675,"Unala","Photo & Video",19350,"1.99");
 insert into tblfake_apps(id, name, category, downloads, price) values (681,"Tinplex","Utilities",2871,"0.0");
-insert into tblfake_apps(id, name, category, downloads, price) values (683,"Trisholding","Music",93036,"2.99");
+insert into tblfake_apps(id, name, category, downloads, price) values (683,"Trisholding","Music",9036,"2.99");
 insert into tblfake_apps(id, name, category, downloads, price) values (687,"Technotaxon","News",21903,"1.99");
 insert into tblfake_apps(id, name, category, downloads, price) values (691,"Highstrip","Finance",29633,"0.0");
 insert into tblfake_apps(id, name, category, downloads, price) values (697,"Tampzone","Music",14633,"14.99");
